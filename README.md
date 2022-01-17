@@ -64,6 +64,12 @@ Following is the Centos 8 ISO Download file.
 -Please refer this video for installing CentOS 8 on Virtual Box
 [Video](https://drive.google.com/file/d/15JicnQ1KCNRqsKHVXz3NNeKctcVznMzK/view?usp=sharing)
 
+While installing,make sure to select "Workstation" in software selection area which is not shown in the video
+
+![Installation](assets/images/Installation.png)![Workstation](assets/images/Workstation.jpeg)
+
+
+
 -**Key Points:**
 1. Allot memory size(RAM) in virtual box based on your system spec and the host OS.
 eg. For Windows users with 8GB RAM you may allot upto 4GB.
