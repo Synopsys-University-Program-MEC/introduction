@@ -35,3 +35,38 @@ Markdown is easy to learn and understand and is really close to HTML. Here inste
 Once cloned to your local repository you can document in markdown using any of your favourite editor. Incase, you are using Visual Studio Code as your editor then you might find a extension named **"Markdown All in One"** to be handy. This extension will simultaniously render out the markdown in a tab as and when you type as shown in the picture below. 
 
 ![Markdown Screenshot](assets/images/markdown-sc.png)
+
+# Installation of CentOS 7/8
+CentOS is Red Hat Enterprise Linux (RHEL) based linux distribution which is the preffered OS for this training program.
+
+## Installation Guide
+### Dual Boot
+-For systems with **RAM <= 4GB** Dual Booting is preferred
+
+-Dual booting is a bit of a tedious procedure and should be done with caution.
+
+-[CentOS 8 ISO Image for Dual Boot](http://centos.mirror.snu.edu.in/centos/8.5.2111/isos/x86_64/CentOS-8.5.2111-x86_64-dvd1.iso)
+Following is the Centos 8 ISO Download file.
+
+-Please refer to youtube tutorials/blogs on the same before dual booting.
+
+**NB:**
+-Ensure that you allot a minimum of 80GB space for CentOS while partitioning.
+
+-Also select GNOME Desktop in the software selection part of installation.
+
+---
+
+### As Virtual Machine
+
+-For systems with **RAM >=8 GB** ,the preferred method is to use CentOS 7/8 on Virtual Box as a virtual machine.
+
+-Please refer this video for installing CentOS 8 on Virtual Box
+[Video](https://drive.google.com/file/d/15JicnQ1KCNRqsKHVXz3NNeKctcVznMzK/view?usp=sharing)
+
+-**Key Points:**
+1. Allot memory size(RAM) in virtual box based on your system spec and the host OS.
+eg. For Windows users with 8GB RAM you may allot upto 4GB.
+Note that bare minimum of 2 GB is recommended for smooth performance.
+
+2. Recommended size for Virtual Hard Disk is 60 GB
