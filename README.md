@@ -1,3 +1,7 @@
+# Index
+- [Getting Started with GitHub](#getting-started-with-github)
+- [Documentation with Markdown](#documentation-with-markdown)
+- [Installation of CentOS 7 or 8](#installation-of-centos-7-or-8)
 # Getting Started with GitHub
 
 ## **1. Creating Your GiHub Account**
@@ -36,7 +40,7 @@ Once cloned to your local repository you can document in markdown using any of y
 
 ![Markdown Screenshot](assets/images/markdown-sc.png)
 
-# Installation of CentOS 7/8
+# Installation of CentOS 7 or 8
 CentOS is Red Hat Enterprise Linux (RHEL) based linux distribution which is the preffered OS for this training program.
 
 ## Installation Guide
